@@ -1,1 +1,1 @@
-RewriteRule ^(.*)$ https://obatpelancarhaidasli.com/amp/kebidanan.html$1 [R=301,L]
+RewriteRule ^(.*)$ https://obatpelancarhaidasli.com/amp/tabalong.html$1 [R=301,L]
